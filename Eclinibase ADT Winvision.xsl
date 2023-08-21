@@ -55,7 +55,7 @@
          </xsl:element>
       </xsl:template>
       
-      <!-- Encoding Characters-->
+      <!-- Encoding Characters Test add lines of code-->
       <xsl:template name="MSH.2">
          <xsl:element name="MSH.2.1">
             <xsl:value-of select="/HL7/MSH/MSH.2.1"/>
